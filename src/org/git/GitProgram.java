@@ -6,7 +6,7 @@ public class GitProgram {
 		System.out.println("Done");
 		System.out.println("Nivetha added");
 		
-		
+		System.out.println("Created a new branch under selenium");
 		System.out.println("Nagarjuna");
 	}
 }
