@@ -6,5 +6,7 @@ public class GitProgram {
 		System.out.println("Done");
 		System.out.println("Nivetha added");
 		System.out.println("kavitha added");
+		System.out.println("new line");
+	
 	}
 }
