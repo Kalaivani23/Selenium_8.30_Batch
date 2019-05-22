@@ -7,5 +7,8 @@ public class GitProgram {
 		System.out.println("Nivetha added");
 		System.out.println("Sruthi");
 		System.out.println("Kalai");
+		System.out.println();
+		System.out.println();
+		System.out.println();
 	}
 }
